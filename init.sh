@@ -47,8 +47,8 @@ if [[ ! -z $(git status _posts -s) ]]; then
 fi
 
 if [[ $CATEGORIES = true || $TAGS = true || $LASTMOD = true ]]; then
-  git commit -m "[Automation] $msg"
   msg+=" for post(s)."
+  git commit -m "[Automation] $msg"
 else
   msg="Nothing changed."
 fi
