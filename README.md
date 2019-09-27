@@ -51,9 +51,6 @@ Now, open your favorite brower and visit <http://127.0.0.1:4000>
 
 Please refer to the [documentation](https://chirpy.cotes.info/posts/getting-started/) for more details. Hope you like it.
 
-## Used by
-
-* [Cotes' Blog](https://blog.cotes.info)
 
 ## License
 
