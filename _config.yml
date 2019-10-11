@@ -6,25 +6,25 @@
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 #--------------------------
 
-title: Chirpy
+title: Summer
 
 description: 'A text-based Jekyll theme.'
 
 # Replace with your domain, e.g. "https://username.github.io"
-url: 'https://www.example.com'
+url: 'https://summeryy16.github.io/'
 
-author: Chirpy                          # change to your full name
+author: Summer                          # change to your full name
 
 logo: /assets/img/sample/profile.jpg    # Support network resources.
 
 github:
-  username: github_username             # change to your github username
+  username: SummerYY16             # change to your github username
 
 twitter:
   username: twitter_username            # change to your twitter username
 
 social:
-  name: Chirpy                          # change to your full name
+  name: Summer                          # change to your full name
   email: example@doamin.com             # change to your email address
   links:
     - https://twitter.com/username      # change to your twitter homepage
